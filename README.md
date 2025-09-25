@@ -1,67 +1,85 @@
-# 💫 About Me:
-👋 Hi, I'm **Niharika Solanki**  
-🚀 Aspiring Software Developer | Java, React.js, Node.js, Express.js, PostgreSQL  
-🎯 Passionate about building full-stack applications and solving real-world problems  
-🌱 Currently learning **Spring Boot** and **Advanced React**  
-📍 Based in Pune, India  
+# laughing-engine
+🌸 Hi, I'm Niharika Solanki!
 
----
+🎮 Aspiring Software Developer | React.js | Java | Spring Boot | Full-Stack Enthusiast
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:solankiniharika35@gmail.com)  
+🚀 About Me
 
----
+🌟 Passionate about coding, problem-solving, and creating impactful software solutions.
+💻 Strong foundation in Java, React.js, Spring Boot, Node.js.
+🎨 Building modern, aesthetic, and responsive websites with React + TailwindCSS.
+📚 Always eager to learn and explore new technologies.
 
-# 💻 Tech Stack:
-**Languages & Core:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 
-**Backend:**  
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)  
 
-**Database & Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
-**Tools & VCS:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
 
----
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niharika-solanki&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Niharika-solanki&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika-solanki&layout=compact&theme=tokyonight)  
 
----
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niharika-solanki&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  
 
----
 
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
----
 
-### 🐍 Contribution Graph
-![Snake animation](https://github.com/Niharika-solanki/Niharika-solanki/blob/output/github-contribution-grid-snake.svg)
 
----
 
-✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨
+
+
+
+
+
+
+
+
+
+
+
+
+
+🎯 Projects
+
+🔹 🎮 Gaming Portfolio Website
+React.js, Neon Cyberpunk Aesthetic, Responsive Design
+➡️ Interactive portfolio with 3D animations, glitch effects, and gaming vibes.
+
+🔹 📑 TaskForge AI  Fullstack App
+Node.js, Express.js  + React + PostgreSQL
+➡️ Created an AI-powered workload balancer for optimal task assignments in team environments. 
+
+🔹 📝 Smart Meeting Transcription & Action Item Generator
+React.js, HuggingFace NLP, Spring Boot, PostgreSQL
+➡️ Real-time meeting transcription, AI-based summaries, and action item tracking.
+🔹 📝 PlantsWorld e-Commerce website
+java,spring + React + PostgreSQL
+➡️ Built a responsive e-commerce website for plant shopping with secure payment gateway
+
+🏆 Achievements
+
+✅ Built multiple full-stack projects combining Java + Spring Boot + React.
+
+✅ Contributed to open-source style projects and personal GitHub repos.
+
+✅ Consistently learning Node.js, APIs, and Cloud integrations (AWS, Firebase).
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niharika-solanki&show_icons=true&theme=radical" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika-solanki&theme=radical" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika-solanki&layout=compact&theme=radical" alt="Top Languages" /> </p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharika-solanki&bg_color=1a1b27&color=9e4c98&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" /> </p>
+👀 Visitors Count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Niharika-solanki&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" /> </p>
+📫 Connect With Me
+
+🌐 Portfolio Website
+📧 Email: solankiniharika35@gmail.com
+💼 LinkedIn
+🐦 Twitter
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/niharika-solanki-484691264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/niharika-solanki-484691264/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/www.hackerrank.com/profile/niharikasolanki2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="www.hackerrank.com/profile/niharikasolanki2" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
