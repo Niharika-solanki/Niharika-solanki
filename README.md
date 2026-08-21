@@ -1,14 +1,13 @@
-# laughing-engine
-🌸 Hi, I'm Niharika Solanki!
+ Hi, I'm Niharika Solanki!
 
-🎮 Aspiring Software Developer | React.js | Java | Spring Boot | Full-Stack Enthusiast
+Aspiring Software Developer | React.js | Java | Spring Boot | Full-Stack Enthusiast
 
-🚀 About Me
+ About Me
 
-🌟 Passionate about coding, problem-solving, and creating impactful software solutions.
-💻 Strong foundation in Java, React.js, Spring Boot, Node.js.
-🎨 Building modern, aesthetic, and responsive websites with React + TailwindCSS.
-📚 Always eager to learn and explore new technologies.
+ Passionate about coding, problem-solving, and creating impactful software solutions.
+ Strong foundation in Java, React.js, Spring Boot, Node.js.
+ Building modern, aesthetic, and responsive websites with React + TailwindCSS.
+ Always eager to learn and explore new technologies.
 
 
 
@@ -64,8 +63,6 @@ java,spring + React + PostgreSQL
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niharika-solanki&show_icons=true&theme=radical" alt="GitHub Stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika-solanki&theme=radical" alt="GitHub Streak" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niharika-solanki&layout=compact&theme=radical" alt="Top Languages" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niharika-solanki&bg_color=1a1b27&color=9e4c98&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" /> </p>
 👀 Visitors Count
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Niharika-solanki&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" /> </p>
 📫 Connect With Me
